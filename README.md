@@ -1,6 +1,6 @@
 # Criando Artigos com I.A
 
-![Banner do Artigo](./assets/banners/banner 1.png)
+![Banner do Artigo](./assets/banners/banner%201.png)
 
 Todos os detalhes de ferramentas, prompts e imagens que usei neste projeto estão descritos logo abaixo:
 
@@ -36,7 +36,7 @@ No Lexica utilizei as imagens públicas geradas por outras pessoas, usando os te
 - HTML5 semântico,
 - Multimídia Acessível.
 
-Consegui encontrar as imagens públicas que eu utilizei durante a criação do meu artigo.
+E assim consegui encontrar as imagens públicas que eu utilizei durante a criação do meu artigo.
 
 ## 🧑🏽‍💻 Como e quais ferramentas usei em cada etapa de criação:
 
@@ -44,7 +44,7 @@ Consegui encontrar as imagens públicas que eu utilizei durante a criação do m
 - Lexica Art para encontrar imagens para os banners do artigo;
 - Canva para editar as imagens do Lexica e criar os banners.
 
-## 🔗 Links para acessar as I.A's:
+## 🔗 Links para acessar as ferramentas:
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Lexica Art](https://lexica.art)
@@ -57,6 +57,8 @@ Consegui encontrar as imagens públicas que eu utilizei durante a criação do m
 
 Feito por [Vanderley Oliveira👾](https://github.com/VanderleyOliveira)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira-a7a868301)
+Conecte-se comigo por:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/vanderley-oliveira-exe/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VanderleyOliveira)
 
